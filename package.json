@@ -1,0 +1,33 @@
+{
+  "name": "diet-cors",
+  "version": "0.0.1",
+  "description": "A CORS plugin for diet.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/psanchezg/diet-cors"
+  },
+  "bugs": {
+    "url": "http://github.com/psanchezg/diet-cors/issues",
+    "email": "psanchezg@gmail.com"
+  },
+  "keywords": [
+    "session",
+    "diet",
+    "diet.js",
+    "dietjs"
+  ],
+  "engines": {
+    "node": ">=0.8.21"
+  },
+  "author": {
+    "name": "Pablo Sánchez",
+    "email": "psanchezg@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
